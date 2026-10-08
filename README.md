@@ -12,7 +12,7 @@ Self-study notes, section summaries, and worked problem sets for **MIT 18.06SC L
 Wellesley–Cambridge Press
 [math.mit.edu/~gs/linearalgebra](http://math.mit.edu/~gs/linearalgebra/)
 
-The course was taught against the **4th edition**, and OCW gives suggested readings for both the 4th and 5th editions. These notes work from the **5th edition** — see [Edition Mapping](#edition-mapping) below for the section correspondences, including one place where OCW's own mapping is wrong.
+The course was taught against the **4th edition**, and OCW gives suggested readings for both the 4th and 5th editions. These notes work from the **5th edition**.
 
 ---
 
