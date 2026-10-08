@@ -59,6 +59,14 @@ Verified correspondences for the Unit III lectures:
 
 ## Attribution
 
-Course materials © Massachusetts Institute of Technology, released under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) via MIT OpenCourseWare. The textbook is © Gilbert Strang, Wellesley–Cambridge Press, and is not distributed here.
+Course materials © Massachusetts Institute of Technology, released under CC BY-NC-SA 4.0 via MIT OpenCourseWare.
 
-Notes and solutions in this repository are my own work.
+The textbook is © Gilbert Strang, Wellesley–Cambridge Press. It is not openly licensed and no textbook content is redistributed here — problems are referenced by section and number only.
+
+---
+
+A Note on Provenance
+
+These are personal study notes. The handwritten problem sets are my own working.
+
+Section summaries were drafted with AI assistance, then reviewed and corrected
