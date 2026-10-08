@@ -1,4 +1,4 @@
-# MIT 18.06SC — Linear Algebra
+# MIT 18.06SC Linear Algebra
 
 Self-study notes, section summaries, and worked problem sets for **MIT 18.06SC Linear Algebra** (Fall 2011), taught by Prof. Gilbert Strang.
 
