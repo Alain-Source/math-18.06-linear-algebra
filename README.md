@@ -65,7 +65,7 @@ The textbook is © Gilbert Strang, Wellesley–Cambridge Press. It is not openly
 
 ---
 
-A Note on Provenance
+## A Note on Provenance
 
 These are personal study notes. The handwritten problem sets are my own working.
 
